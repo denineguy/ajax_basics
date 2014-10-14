@@ -1,0 +1,54 @@
+[
+  {
+   "name": "Amy",
+   "registered": false
+  },
+  {
+   "name": "Amber",
+   "registered": false
+  },
+  {
+   "name": "Bojana",
+   "registered": true
+  },
+  {
+   "name": "Bianca",
+   "registered": true
+  },
+  {
+   "name": "Elena",
+   "registered": true
+  },
+  {
+   "name": "Gail",
+   "registered": false
+  },
+  {
+   "name": "Howard",
+   "registered": true
+  },
+  {
+   "name": "Jodi",
+   "registered": true
+  },
+  {
+   "name": "Lacy",
+   "registered": true
+  },
+  {
+   "name": "Kenneth",
+   "registered": false
+  }, 
+  {
+   "name": "Patrick",
+   "registered": true
+  },
+  {
+   "name": "Shawne",
+   "registered": true
+  },
+  {
+   "name": "Zach",
+   "registered": false
+  }
+]
